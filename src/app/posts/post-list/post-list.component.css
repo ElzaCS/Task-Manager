@@ -1,0 +1,16 @@
+:host{
+  display: block;
+  margin-top: 1rem;
+}
+.info-text{
+  text-align: center;
+}
+/* .mat-tab-labels, .mat-tab-label, .mat-tab-link {
+  color: white;
+  font-size: 16px;
+  background-color: #804A71;
+}
+mat-tab-group.mat-primary .mat-ink-bar, .mat-tab-nav-bar.mat-primary .mat-ink-bar{
+  background: white;
+  height: 5px;
+} */
